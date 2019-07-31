@@ -38,7 +38,8 @@ Training Days
  Using array methods, you will transform an array of strings into a secret message!
  -----------------------------------------------------------------------------------------------------------------------------------
  
- 
+ Love Score Calculator
+ This calulator allows you to estimate the probbility of a match for your love one. Simply enter your name and your partners name to see the odds. Good Luck!!!
  
  
  
